@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://versuspy2.fra1.cdn.digitaloceanspaces.com/gen/assets/images/gen.svg",GEN
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES",VENUS MEDIA
+#EXTINF:-1 group-title="NACIONALES" ,VENUS MEDIA
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/chunklist_w545382162.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://play-lh.googleusercontent.com/7N6mkTUXpd7F_go8SeeLa_xKM_D1JGyTWFBVPaKNQXaX_trjHI4OTKRDpL9U15v0lg8=w240-h480-rw",BRUNO MASI TV
