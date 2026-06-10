@@ -53,13 +53,62 @@ https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/19_.m3u8?token=tL7pe
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/20_.m3u8?token=m0l5twm5bxqLCImPD5-2jA&expires=1781132212
 
 #EXTINF:-18 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",FOX SPORT PREMIUM
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/12_.m3u8?token=j4VMPRKk6Q1gfulyQI7lQA&expires=1781132284
+https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/12_.m3u8?token=iTQ0fP57FzW97KNGNoPIaw&expires=1781145924
 
 #EXTINF:-19 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/FOX_Sports_logo.svg",FOX SPORT
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/8_.m3u8?token=w2BNH0JeFoLP-RruQ6EzOg&expires=1781132416
 
-#EXTINF:-19 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",TOONCAST
+#EXTINF:-20 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",TOONCAST
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/32_.m3u8?token=wiWFl6T4xFj1CU8WdxuNig&expires=1781146543
 
+#EXTINF:-21 group-title="KIDS" tvg-logo="
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6MuMfHDip0q9DOEtsg_BoDYYlJYsFJafg&s",CARTOON NETWORK
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/31_.m3u8?token=2v0t-Kcw8I9Wcs1G3GWTNg&expires=1781153504
 
+#EXTINF:-22 group-title="KIDS" tvg-logo="",
+
+
+#EXTINF:-26 group-title="ENTRETENIMIENTO" tvg-logo="
+https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/52_.m3u8?token=kpKDwcuC9wl24FV9KvsoQA&expires=1781153947
+
+#EXTINF:-27 group-title="ENTRETENIMIENTO" tvg-logo="
+https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png",USA NETWORK
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/57_.m3u8?token=YXbJ8IYG_0O31IsdXZrK6g&expires=1781154294
+
+#EXTINF:-28 group-title="ENTRETENIMIENTO" tvg-logo="
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EXFEO3Cm-UerIw9Zf4xH46VwSFr3g8uWrL8bAzcJFA&s",SPACE
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/56_.m3u8?token=eaIrzAM37enuK-VfA0LyJw&expires=1781152785
+
+#EXTINF:-29 group-title="ENTRETENIMIENTO" tvg-logo="https://es.wikipedia.org/wiki/Warner_Channel#/media/Archivo:Warner_Channel_2026.svg",WARNER CHANNEL
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/58_.m3u8?token=AIQ7V7-P8jclQMlVlc-zJA&expires=1781154504
+
+#EXTINF:-30 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINECANAL
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/59_.m3u8?token=D7OxijfW1-_FPPOusmPafA&expires=1781154783
+
+#EXTINF:-31 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg",AXN
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/61_.m3u8?token=M0hvlvqFLdzsURVGqQt70A&expires=1781155066
+
+#EXTINF:-32 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg",AMC
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/63_.m3u8?token=bE149adPSFSo_O_Xg_-AUw&expires=1781155221
+
+#EXTINF:-33 group-title="ENTRETENIMIENTO" tvg-logo="",PANICO HD
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/65_.m3u8?token=iEXzw5lmQrBao1UYMUI2Fw&expires=1781155520
+
+#EXTINF:-34 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Multipremier_logo_2015.svg",MULTIPREMIER
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/66_.m3u8?token=ZhOQFiXSi5zwADCDOCLkGQ&expires=1781155582
+
+#EXTINF:-35 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",GOLDEN
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/67_.m3u8?token=FRjcvkiSN2Mq56JaW9t2bQ&expires=1781155871
+
+#EXTINF:-36 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",GOLDEN EDGE
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/69_.m3u8?token=97hoXI25B6tv6UL7KRlbug&expires=1781156124
+
+#EXTINF:-37 group-title="ENTRETENIMIENTO" tvg-logo="",FM HOT MOVIES
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/34_.m3u8?token=l2lN0m3v2GqPI1_tdre3RQ&expires=1781156206
+
+#EXTINF:-38 group-title="ENTRETENIMIENTO" tvg-logo="https://image.roku.com/developer_channels/prod/3edd65252de7e080c75b23860668c4e857f1182ceeda081969c34436d69350aa.png",EXTREMA TV
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/73_.m3u8?token=IRNtn5IBetr5p3UBX-Ox7w&expires=1781156494
+
+#EXTINF:-39 group-title="ENTRETENIMIENTO" tvg-logo="",
 
