@@ -54,26 +54,44 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(Zn66XE7cPeN6KvehA4ZRULVLg4-G9wv1qvn4
 #EXTINF:-8 group-title="NACIONALES" tvg-logo="https://www.abc.com.py/pf/resources/images/logo-abc-tv.svg?d=2522&mxId=00000000",ABC TV
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(c23-KQ4CfOoGSJXUhLF4MAgi1tbZvJqkKaWaPLIUZTUHU-2IK-Mw1GSlZWlmXWIzRHKU-BoaWciDV9Tpwadqn_-aQa4xFR_KL0FzToq05fAiwa1oFsdlUnVr8u3M_MQD)/cloud/3/x9skr3m/d/live-720.m3u8
 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/3840px-TyC_Sports_logo.svg.png",TYC SPORTS
+https://st.streamtpday1.xyz/tycsports/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=de1b75cd4f9ea7195fdddf58d65128d90041bc71-c4-1781229018-1781175018
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyIpE_wI2WOy2lWUa-VzN4AxYj5BnnnLcMMWgDUMQBxoP0HFgb8QuGLlaZzU2hUmWm8hTAV2OIrU2hptkpi5qvLPCC8u4j_NppiYjLH2W&s=10",Directv Sports+
+https://sa.streamtpday1.xyz/dsportsplus/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=b2e8a229a502c1ad9c28f68355024cb9643be6d3-9a-1781229743-1781175743
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/ce307b2/2147483647/strip/true/crop/253x83+0+0/resize/244x80!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2F3b%2F85a87fa34e7ea6a1e855b5dd19d4%2Fctv.png",CaracolTV
+https://hls.tdtcloud.xyz/hls/carsd2/index.m3u8?token=-mFrk9HGFtra6eKD-xgIUQ&expires=1781199635
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/960px-DAZN_Logo_Master.svg.png",DAZN Mundial
+https://6g4q11n3wstw.54434687.net:8443/hls/pqmrkgf91vww3.m3u8?s=kfWis5mmM5y-sh2Yw_A8yg&e=1781207892
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png",Sky sports Premier League
+https://fomis.phantemlis.top/premium130/tracks-v1a1/mono.m3u8?md5=Bjhs5FCAgqQvBrVKO6SEWg&expires=1781190081
+
 #EXTINF:-9 group-title="SPORT" tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png",ESPN
 https://st.streamtpday1.xyz/espn/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=ec9c8e702ec4e93e181df1f0258a68ceda09909a-28-1781226740-1781172740
 
 #EXTINF:-10 group-title="SPORT" tvg-logo="https://www.tvporinternet2.com/imge/espnpremium.webp",ESPN Premium
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/5_.m3u8?token=BVAmXFi6mf3wM9wj1WSOEA&expires=1781130352
+https://st.streamtpday1.xyz/espnpremium/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=765c2974899e5bd3db4788046750d81f4a877ecf-df-1781229952-1781175952
 
 #EXTINF:-11 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg",ESPN 2
-https://st.streamtpday1.xyz/espn2/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=8d73054dd27758eec5758a2c1edcc3f8a0a64f6d-f6-1781227092-1781173092
+https://sa.streamtpday1.xyz/espn2/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=fca7f5033fc7fc486a6a19107a22f1a7656f23b8-b0-1781227960-1781173960
 
 #EXTINF:-12 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/ESPN3_logo.svg",ESPN 3
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/15_.m3u8?token=83E3vOns_qV3_QQGaQ0rdg&expires=1781131072
+https://st.streamtpday1.xyz/espn3/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=0bb5d0cc6cfb9bd75603c8f2e64bc5ace2207e6e-29-1781228066-1781174066
 
 #EXTINF:-13 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg",ESPN 4
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/23_.m3u8?token=m3_eOkupXyiE9he2U5keyg&expires=1781131320
+https://sa.streamtpday1.xyz/espn4/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=1335d1945e4bc81f712965bee897362c71997f24-ea-1781228178-1781174178
+
+#EXTINF:-14 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg",ESPN 5
+https://sa.streamtpday1.xyz/espn5/tracks-v1a1/mono.m3u8?ip=38.52.133.57&token=8dde80007dfbf52306d520f3a17253231cf6c72f-cd-1781228397-1781174397
 
 #EXTINF:-14 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg",ESPN 6
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/25_.m3u8?token=1t9-UYVbvE8NjNSFoN2kyw&expires=1781131565
+https://06qy06a4qdwv.78655371.net:8443/hls/rls67qifmmmh88.m3u8?s=FED4fU0DxQnlocLbNUkJBw&e=1781205113
 
 #EXTINF:-15 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",ESPN 7
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/26_.m3u8?token=8jiLn1QwK0UMt5DnRtYcMQ&expires=1781131727
+https://06qy06a4qdwv.78655371.net:8443/hls/en8640r.m3u8?s=mkJY6_6IOIf_1t1U05bBpQ&e=1781205276
 
 #EXTINF:-16 group-title="SPORT" tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png",ESPN MX
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/19_.m3u8?token=tL7peMQDaWD8s8Uj20ISPA&expires=1781131863
