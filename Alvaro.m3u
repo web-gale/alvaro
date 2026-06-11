@@ -162,6 +162,9 @@ https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8?hls_ctx=75c203l
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/21e3a56732a5a037eaceb6ef617b7aae.webp",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/360p/index.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://tele-libre.click/img/star.webp",Star Channel
+https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjEzNTUzIiwic2lwIjoiODQuMjUyLjExNC4yIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImY0OGFmZWE4ODY1ZDgzYWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EcRVODTFHk9hYjSzAy7FsMy5I0MQmPKxjzqP_bzXEzmg9dGxLONTaOeenlkf57q2-Yo3dHehnakD-hVcg4x4FQ==/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD-avc1_2499968=10001-scale=30000-p=359783319553622-10833575102088.mp4
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4105f4374c811c5e233dddb029e79c0d.webp",Runtime Cine Y Series
 https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8
 
