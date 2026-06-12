@@ -1,1 +1,32 @@
 
+name: Actualizar Lista IPTV Combinada
+on:
+  schedule:
+    - cron: '0 0 * * *' # Todos los días a medianoche
+  workflow_dispatch: # Permite ejecutarlo a mano desde GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Descargar y combinar listas
+        run: |
+          # 1. Crear el archivo vacío
+          echo "#EXTM3U" > Alvaro.m3u
+          
+          # 2. Descargar y añadir Paraguay, omitiendo la primera línea (#EXTM3U) para no duplicarla
+          curl -L https://iptv-org.github.io/iptv/countries/py.m3u | grep -v "#EXTM3U" >> Alvaro.m3u
+          
+          # 3. Descargar y añadir Español, omitiendo también la primera línea
+          curl -L https://iptv-org.github.io/iptv/languages/spa.m3u | grep -v "#EXTM3U" >> Alvaro.m3u
+
+      - name: Subir cambios a GitHub
+        run: |
+          git config --global user.name "Bot-Alvaro"
+          git config --global user.email "bot@alvaro.com"
+          git add Alvaro.m3u
+          git commit -m "Sincronización combinada: PY + SPA"
+          git push
