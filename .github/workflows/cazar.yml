@@ -23,3 +23,5 @@ jobs:
         env:
           MI_TOKEN_GITHUB: ${{ secrets.MI_TOKEN_GITHUB }}
         run: python cazador_maestro.py
+env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
