@@ -420,9 +420,6 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="AustralTV.ec@SD" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="General",Austral TV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión (720p) [Not 24/7]
-https://live.obslivestream.com/autenticatvmux/index.m3u8
-
 #EXTINF:-1 tvg-id="AvivamientoTV.co@SD" tvg-logo="https://i.imgur.com/ydoBp3b.png" group-title="Religious",Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 
@@ -537,9 +534,6 @@ https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="CableImagenArmstrong.ar@SD" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Undefined",Cable Imagen Armstrong (540p) [Not 24/7]
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CadenaA.bo@SD" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Undefined",Cadena A (720p) [Not 24/7]
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CadenaElite.es@SD" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Music",Cadena Elite (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
@@ -551,9 +545,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CaliTV.co@SD" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="General",Cali TV (540p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx@SD" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="General",California Medios TV (720p)
-https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CampusTV.hn@SD" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="Education",Campus TV (480p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
@@ -723,9 +714,6 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="Canal14Codazzi.co@SD" tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="Entertainment",Canal 14 Codazzi (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8056/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal15ElZamorano.sv@SD" tvg-logo="https://i.imgur.com/op13ujg.png" group-title="General",Canal 15 El Zamorano [Not 24/7]
-https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
-
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Education",Canal 15 ILCE Summa Sabres (720p)
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
@@ -863,9 +851,6 @@ https://movil.ejeserver.com/live/mundovisiontv.m3u8
 
 #EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Entertainment",Canal Nets (720p) [Not 24/7]
 https://movil.ejeserver.com/live/nets.m3u8
-
-#EXTINF:-1 tvg-id="CanalOnce.ve@SD" tvg-logo="https://i.imgur.com/puM9ASa.png" group-title="General",Canal Once (480p)
-https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 
 #EXTINF:-1 tvg-id="CanalOracionConSon.co@SD" tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Religious",Canal Oración Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
@@ -1469,9 +1454,6 @@ https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ForensicFiles.us@SD" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="Documentary",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
-
-#EXTINF:-1 tvg-id="FortunaTV.ve@SD" tvg-logo="https://i.imgur.com/RPiTPnK.png" group-title="General",Fortuna TV (1080p)
-https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports",FOX Sports (720p)
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
@@ -2340,9 +2322,6 @@ https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" group-title="Music",Parranda Vallenata (720p)
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 
-#EXTINF:-1 tvg-id="PATLaPaz.bo@SD" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="General",PAT La Paz
-https://www.redpat.tv/proxylpz/index.m3u8
-
 #EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Religious",Peniel Kids & Young (480p)
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 
@@ -3000,9 +2979,6 @@ https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TeleElx.es@SD" tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="General",Tele Elx (1080p)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1 tvg-id="TeleMocoaCanal10.co@SD" tvg-logo="https://i.imgur.com/XHtpEfu.png" group-title="General",Tele Mocoa Canal 10 (720p)
-https://live.amelbatv.co:81/telemocoalive/index.m3u8
-
 #EXTINF:-1 tvg-id="TeleOla44.do@SD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tele-ola.jpeg" group-title="General",Tele Ola 44 (576i) [Not 24/7]
 https://teleola.ddns.net/hls/stream.m3u8
 
@@ -3290,9 +3266,6 @@ https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/3
 
 #EXTINF:-1 tvg-id="TorococoTV.ve@SD" tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="General",Torococo TV (720p) [Not 24/7]
 https://us.streaminghd.cl/torococotelevision/video.m3u8
-
-#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Music",Totalmusic (1080p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Music",Totalmusic 80s (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
