@@ -1,0 +1,22 @@
+#EXTM3U
+
+# ORIGEN: https://www.telefuturo.com.py/envivo
+#EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-logo="https://www.telefuturo.com.py/favicon-16x16.png" group-title="NACIONALES.PY",Telefuturo
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?k=81f0486b3581886869bfeeab177bc5ca7bab5e37cb674a9a7e8a81956db3c83a&exp=1781384114
+
+# ORIGEN: https://trece.com.py/en-vivo/
+#EXTINF:-1 tvg-id="Trece.py@SD" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" group-title="NACIONALES.PY",Trece
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(x73jZ3zP7BzFPumsKo6H3Bhvpr8BLjoBm4gFH0Xqj69WAoXDBCwDicrRX9rOf9Ljar4Cd0Q6nFGrHgiCRiI0e6aTR3vwBnjt3BqZJOw0vHeUTdi4bKy-LAhSFEOvifCr)/cloud/3/x9ksaba/s/live-720.m3u8
+
+
+# ORIGEN: https://unicanal.com.py/en-vivo/
+#EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="NACIONALES.PY",Unicanal
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(vSkUmCM3ycqFXE6zrHIGLfdDhiaq1odw5BVBXBeuSsak5yViLR8nF_ht2tOAixIPKx6WMbU1e68RmVWDclnVWfyhcnWf61Z0Lxbda7Lf5oqIk_8c4CMDd2l6NqHQ4kDx)/cloud/3/x9ko9z8/s/live-720.m3u8
+
+# ORIGEN: https://tele-libre.click/en-vivo/stream-01.php
+#EXTINF:-1 tvg-id="ESPN.py@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0WfyubEnTZpGQFT9dgxFd2OHMKrPWo0amQ&s" group-title="SPORT",ESPN
+https://sa.streamtpday1.xyz/espn/tracks-v1a1/mono.m3u8?ip=38.52.133.59&token=88f30055c6b5b88dbe68be14b1157903b31252db-06-1781429970-1781375970
+
+# ORIGEN: https://tele-libre.click/en-vivo/stream-02.php
+#EXTINF:-1 tvg-id="ESPN2.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/26/1/espn2-logo-png_seeklogo-261969.png" group-title="SPORT",ESPN 2
+https://sa.streamtpday1.xyz/espn2/tracks-v1a1/mono.m3u8?ip=38.52.133.59&token=b6171ebc07c5f7d878db76400a34b26b722dc939-48-1781430224-1781376224
