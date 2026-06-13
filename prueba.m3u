@@ -1,0 +1,16 @@
+#EXTM3U 
+# ORIGEN: https://www.desdeparaguay.net/telefuturo-en-vivo/ 
+#EXTINF:-1 tvg-id="Telefuturo",Telefuturo 
+https://example.com/telefuturo.m3u8 
+# ORIGEN: https://www.dailymotion.com/embed/video/x8w6m0h 
+#EXTINF:-1 tvg-id="Trece",Trece 
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8w6m0h.m3u8?af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis%2Cimage%2Fjpeg%2Cimage%2Fpng%2Cimage%2Fwebp%2Cimage%2Fsvg%2Bxml&cse=1jr1libjqc274afee97&rts=924114&rhv=1&cen=prod&rla=es&cpr=default&ps=1280x720&td=geo.dailymotion.com&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=-1&ciid=1jr1libjqc274afee97_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+# ORIGEN: https://www.dailymotion.com/embed/video/x8w6m0i 
+#EXTINF:-1 tvg-id="Unicanal",Unicanal 
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8w6m0i.m3u8?af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis%2Cimage%2Fjpeg%2Cimage%2Fpng%2Cimage%2Fwebp%2Cimage%2Fsvg%2Bxml&cse=1jr1liptsf6be1ee914&rts=788636&rhv=1&cen=prod&rla=es&cpr=default&ps=1280x720&td=geo.dailymotion.com&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=-1&ciid=1jr1liptsf6be1ee914_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+# ORIGEN: https://tele-libre.click/en-vivo/espn/ 
+#EXTINF:-1 tvg-id="ESPN",ESPN 
+https://example.com/espn.m3u8 
+# ORIGEN: https://tele-libre.click/en-vivo/espn-2/ 
+#EXTINF:-1 tvg-id="ESPN2",ESPN2 
+https://example.com/espn2.m3u8
