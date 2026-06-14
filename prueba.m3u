@@ -1,15 +1,15 @@
 #EXTM3U
 
 # ORIGEN: https://www.telefuturo.com.py/envivo
-#EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-logo="https://www.telefuturo.com.py/favicon-16x16.png" group-title="NACIONALES.PY",Telefuturo
+#EXTINF:-1 tvg-id="telefuturo" tvg-logo="https://www.telefuturo.com.py/favicon-16x16.png" group-title="NACIONALES.PY",Telefuturo
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=b3a8fcafb71eb385065ac63ef4cc250be16bf89b25059773f57ef3831f19e117&exp=1781446586
 
 # ORIGEN: https://trece.com.py/en-vivo/
-#EXTINF:-1 tvg-id="Trece.py@SD" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" group-title="NACIONALES.PY",Trece
+#EXTINF:-1 tvg-id="trece" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" group-title="NACIONALES.PY",Trece
 https://dmxleo.dailymotion.com/cdn/manifest/video/x8w6m0h.m3u8?af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis%2Cimage%2Fjpeg%2Cimage%2Fpng%2Cimage%2Fwebp%2Cimage%2Fsvg%2Bxml&cse=1jr37rvpaeaaa8d7ab7&rts=20876&rhv=1&cen=prod&rla=en&cpr=default&ps=1280x720&td=geo.dailymotion.com&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&gpp_pl=DBABLA%7EBVQqAAAAAWA&gpp_pls=7&reader_us_privacy=1YNY&vl=-1&ciid=1jr37rvpaeaaa8d7ab7_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
 
 # ORIGEN: https://unicanal.com.py/en-vivo/
-#EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="NACIONALES.PY",Unicanal
+#EXTINF:-1 tvg-id="unicanal" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="NACIONALES.PY",Unicanal
 https://dmxleo.dailymotion.com/cdn/manifest/video/x8w6m0i.m3u8?af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis%2Cimage%2Fjpeg%2Cimage%2Fpng%2Cimage%2Fwebp%2Cimage%2Fsvg%2Bxml&cse=1jr37sbuucf3114b7f3&rts=955801&rhv=1&cen=prod&rla=en&cpr=default&ps=1280x720&td=geo.dailymotion.com&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&gpp_pl=DBABLA%7EBVQqAAAAAWA&gpp_pls=7&reader_us_privacy=1YNY&vl=-1&ciid=1jr37sbuucf3114b7f3_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
 
 # ORIGEN: https://tele-libre.click/en-vivo/stream-01.php
