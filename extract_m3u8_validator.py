@@ -4,7 +4,7 @@
 """
 Script para extraer, validar y procesar URLs m3u8 desde archivos .m3u
 Autor: Automatización de canales
-Uso: python extract_m3u8_validator.py [archivo.m3u]
+Uso: python extract_m3u8_validator.py prueba01.m3u
 """
 
 import re
@@ -210,6 +210,7 @@ class M3U8Extractor:
         
         data = {
             'timestamp': datetime.now().isoformat(),
+            'archivo_origen': str(self.input_file),
             'total_canales': len(self.channels),
             'canales_validos': len(self.valid_urls),
             'canales_invalidos': len(self.invalid_urls),
@@ -394,6 +395,7 @@ class M3U8Extractor:
         print("\n" + "="*80)
         print("📈 RESUMEN DE VALIDACIÓN")
         print("="*80)
+        print(f"Archivo procesado: {self.input_file}")
         print(f"Total de canales: {len(self.channels)}")
         print(f"✓ Canales válidos: {len(self.valid_urls)}")
         print(f"✗ Canales inválidos: {len(self.invalid_urls)}")
@@ -406,41 +408,31 @@ class M3U8Extractor:
         print("="*80 + "\n")
 
 
-def find_m3u_file() -> str:
-    """Busca automáticamente archivos .m3u en el directorio actual"""
-    m3u_files = list(Path('.').glob('*.m3u'))
-    
-    if m3u_files:
-        print(f"📁 Archivos .m3u encontrados:")
-        for i, file in enumerate(m3u_files, 1):
-            print(f"   {i}. {file.name}")
-        return str(m3u_files[0])
-    
-    return None
-
-
 def main():
     """Función principal"""
     
-    # Configuración inicial
-    input_file = None
-    
-    # Si se pasa como argumento
-    if len(sys.argv) > 1:
-        input_file = sys.argv[1]
-    
-    # Si no, buscar automáticamente
-    if not input_file:
-        input_file = find_m3u_file()
-    
-    # Validar que tenemos un archivo
-    if not input_file or not Path(input_file).exists():
-        print("❌ Error: No se encontró archivo .m3u")
+    # Validar argumentos
+    if len(sys.argv) < 2:
+        print("❌ Error: Debes especificar el archivo .m3u")
         print("\n💡 Uso:")
-        print("   python extract_m3u8_validator.py [archivo.m3u]")
+        print("   python extract_m3u8_validator.py prueba01.m3u")
         print("\nEjemplos:")
         print("   python extract_m3u8_validator.py prueba01.m3u")
-        print("   python extract_m3u8_validator.py  # Busca automáticamente .m3u")
+        print("   python extract_m3u8_validator.py prueba02.m3u")
+        sys.exit(1)
+    
+    input_file = sys.argv[1]
+    
+    # Validar que el archivo existe
+    if not Path(input_file).exists():
+        print(f"❌ Error: No se encontró el archivo '{input_file}'")
+        print(f"\n📁 Archivos .m3u disponibles en el directorio actual:")
+        m3u_files = list(Path('.').glob('*.m3u'))
+        if m3u_files:
+            for f in m3u_files:
+                print(f"   - {f.name}")
+        else:
+            print("   (Ninguno encontrado)")
         sys.exit(1)
     
     print(f"✅ Usando archivo: {input_file}\n")
