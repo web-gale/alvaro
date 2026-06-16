@@ -5,13 +5,13 @@
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?k=1919d53b69036298f488cbba2c0507cde320a0e6015fa9e920f8bb4eee14869f&exp=1781481425
 
 #EXTINF:-1 tvg-id="GEN.py@SD" tvg-logo="https://versuspy2.fra1.cdn.digitaloceanspaces.com/gen/assets/images/gen.svg" group-title="NACIONALES",GEN
-https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w563046200.m3u8?k=a09d4af81b8940a2bcc59dbede73f37573521231db3f32e9a318fa96383bad86&exp=1781547893
+https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w601880181.m3u8?k=5a0334ffcfec2e0aec6d2f77c3e18b9b810c620050a5eac86a0fb7bb62406eb1&exp=1781618678
 
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="NACIONALES",Unicanal
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(p3Amc9JtlgeukF6A0Pl06LyGw4VOhm_jyCtV2I8TFWAr77QfJ72p1XZgJklCE8JriqCdB9fUgUu3XveFZzT0UE9b0o1t7CSvex0xema_FPYShOZWWERzc1qE2LhIM64f)/cloud/3/x9ko9z8/s/live-480.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Lo_Sfcc_KYloNbeXNZoIKMhmnY4wX0YADv2ARPrepQo-q-UCRHCR4jSLcwXlno4YaiWcXj0H9aq3YS7rPRvq7InlzBR5xFYl-INzq5Rd7XXD-vJPQvMh0ZNONPJ_WGjF)/cloud/3/x9ko9z8/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="Trece.py@SD" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" group-title="NACIONALES",Trece
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(PNWN7CTWDo5vkSsoAOI5sR5kLcArjT-fe7LRWMGYch7hMl03RGJPYjWU3W5AN4FwXBZcT_TmkiUuCTXPQ1eQFoW6TY5B7bDGlyIgSNemoni-FuVtWO0a9YWGpKqGYqdL)/cloud/3/x9ksaba/s/live-480.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(mUvBQvkwISsB8mWsFFKi7DlKKpuUd44lfsp122oIOgxtHAB5gIpMDI6QmpSMVzxv9n_lOL4BcbVkWkZ5qvRM9Fx1FmiJfjTSeA-RpCjH-drgHzQ8AAuzSlDv3r6MAfaq)/cloud/3/x9ksaba/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py@SD" tvg-logo="https://i.imgur.com/ymcWecA.png" group-title="NACIONALES",Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
