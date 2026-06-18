@@ -14,7 +14,7 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(t-PGuR4AgloQ9Lg19aqh4hiKqv_GJLpInfX9
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(6yPOyu8dkQ7XriZ_kJypfEsC_ovATHcfZ1p40K93CSEIr5aFYJLkG3b1J6CvJsdFLV4TAu6RBaWU6TAAsq8-8s8zwB1Vxty1RlRwgN_MUhBVmLyG4zt2DZ8-CfqiNlZW)/cloud/3/x9ksaba/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TigoSports+.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/1280px-Tigo_Sports_2025.png" group-title="NACIONALES",Tigo Sports+
-https://live.enhdtv.com:8081/8160/index.m3u8
+http://45.170.130.224:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/1280px-Tigo_Sports_2025.png" group-title="NACIONALES",Tigo Sports
 https://live.enhdtv.com:8081/8160/index.m3u8
