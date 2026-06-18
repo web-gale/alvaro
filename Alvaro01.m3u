@@ -4,12 +4,8 @@
 #EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/500px-TelefuturoLogo2022.png" group-title="NACIONALES",Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=ea8f2d3215fd8a04c70dc6b05e7ec4a90015290c54e66eec3ca82387488cde79&exp=1781697859
 
-#EXTINF:-1 tvg-id="Gen.py@SD" group-title="01NACIONALES",Gen
-#EXTVLCOPT:http-referrer=https://www.gen.com.py/
-https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
-
-#EXTINF:-1 tvg-id="Gen.py@SD" group-title="02NACIONALES",Gen
-https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
+#EXTINF:-1 tvg-id="GEN.py@SD" tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="NACIONALES",GEN
+https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1560466221.m3u8?k=447cba6f76534f9fb792e533887c0908dbb52b8249c05c3ff6f81c5ebfd73fc1&exp=1781824224
 
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="NACIONALES",Unicanal
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(t-PGuR4AgloQ9Lg19aqh4hiKqv_GJLpInfX9S41YWLS-0scjkRkkAeMN3Lsy1N7KBzxch8-Lq1-5cJdb7jSahLdBVML7MYap4egeEZJiiS-cBAHbw7SbjPCQ23veFAzD)/cloud/3/x9ko9z8/s/live-720.m3u8
