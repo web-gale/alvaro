@@ -8,6 +8,9 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=
 #EXTVLCOPT:http-referrer=https://www.gen.com.py/
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
 
+#EXTINF:-1 tvg-id="Gen.py@SD" group-title="02NACIONALES",Gen
+https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
+
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="NACIONALES",Unicanal
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(t-PGuR4AgloQ9Lg19aqh4hiKqv_GJLpInfX9S41YWLS-0scjkRkkAeMN3Lsy1N7KBzxch8-Lq1-5cJdb7jSahLdBVML7MYap4egeEZJiiS-cBAHbw7SbjPCQ23veFAzD)/cloud/3/x9ko9z8/s/live-720.m3u8
 
