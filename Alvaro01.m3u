@@ -3445,7 +3445,7 @@ https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="General",Trivu (1080p) [Not 24/7]
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TropiQ997FM.pa@SD" tvg-logo="https://i.imgur.com/5rPdHhb.png" group-title="Music",Tropi Q 99.7 FM (1080p)
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
@@ -3583,7 +3583,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVOFF.bo@SD" tvg-logo="https://i.imgur.com/vBe1GgI.png" group-title="Travel",TV OFF
-https://seo.tv.bo/tv/TV-OFF.m3u8
+https://edge.enhdtv.com/tvoff/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="General",TV Plata (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
