@@ -3,7 +3,7 @@ name: Actualizador Automatizado IPTV-ORG
 on:
   schedule:
     # Se ejecuta de manera automática cada 6 horas
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch: # Permite activarlo manualmente
 
 jobs:
