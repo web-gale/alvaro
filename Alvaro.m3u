@@ -8,10 +8,10 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="NACIONALES",Unicanal
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(4Uo9IP3G3HW-xpE7TkaLv_c-0iEWPer4uMayzVWsRXJoqyjps9VMXEetuoUYkNvl-c8IHMtTbX1bT6BmEXzmG1zSb5n9yLPC2aQ4NGAoK2uc0ySG2RVtC048ZdaAGW8j)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(O4pMBYeQ4hpnKA9zrrb9UvEHUhZFUwPZusw3eGzl_Jx7FOCeZmvDo_RtUgI8jYYcmCrRDgdbUPZN_MzGn2KLZVO_Hz6oE7ehy_8y11KjwGYg9hEIFkmMPaw54Ml4uycY)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-id="Trece.py@SD" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" group-title="NACIONALES",Trece
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(dlZ8Zfi2vG4xCpk5uRYYxxsnxqLbAjrV4KUgHDzTeUDxZuddoYJ4r-lCf-NN3m179TES3hORCtdSlBhD9px4yVTdoPfMsNxaLTMtt97GY0vF6sLoNsbX4Byd1dgNypZH)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(_vih_Xx4jrya7N6lrRbWX43kjhvANCFFN3tGNFt9M_V1U5oXNGr4AGDyBhw5JX22Fg9jTSyhrkHP5fKMzBhIQK5RZlO5BZhlhf-BY146-WJVl0WuiWprjxwtx8D87phB)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 tvg-id="TigoSports+.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/1280px-Tigo_Sports_2025.png" group-title="NACIONALES",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
