@@ -943,7 +943,7 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 #EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-logo="https://i.imgur.com/ew44KOZ.png" group-title="General",Canal C Del Zulia (720p)
-https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8
+https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
 
 #EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="General",Canal Calima TV (720p)
 https://movil.ejeserver.com/live/calimatv.m3u8
@@ -1447,7 +1447,7 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="General",Ecuavisa Quito (1080p) [Not 24/7]
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+http://179.60.51.134:8888/ECUAVISA/index.m3u8
 
 #EXTINF:-1 tvg-id="EDNTV.hn@SD" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Entertainment",EDN TV (1080p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
@@ -2233,7 +2233,7 @@ https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
 
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
-https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
 
 #EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg" group-title="General",MorroTV (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
@@ -2434,7 +2434,7 @@ https://edge.essastream.com/orbittv/index.m3u8
 https://orbitachiletv.org/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="General",Oromar TV (720p)
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+http://179.60.51.134:8888/OROMAR-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="OxigenoTV.ve@SD" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="Music",Oxigeno TV (360p) [Not 24/7]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
@@ -3580,7 +3580,7 @@ https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m
 https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVOasisMonay.ve@SD" tvg-logo="https://i.imgur.com/hwd7osJ.jpeg" group-title="General",TV Oasis Monay (486p)
-https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
+https://servilive.com:3562/live/vav4c8z38live.m3u8
 
 #EXTINF:-1 tvg-id="TVOFF.bo@SD" tvg-logo="https://i.imgur.com/vBe1GgI.png" group-title="Travel",TV OFF
 https://edge.enhdtv.com/tvoff/index.m3u8
