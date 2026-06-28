@@ -1624,7 +1624,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
 #EXTINF:-1 tvg-id="FAPTV.bo@SD" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="General",FAP TV (480p)
-https://nd106.republicaservers.com/hls/c7284/index.m3u8
+https://edge.enhdtv.com/faptv/index.m3u8
 
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr@SD" tvg-logo="https://i.imgur.com/GoNBFzI.png" group-title="Religious",Faro de Santidad TV (720p)
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
@@ -2890,7 +2890,7 @@ https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 
 #EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="General",RTP
-https://rtp.noxun.net/hls/stream.m3u8
+https://rtp.noxun.net/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Undefined",RTQ Querétaro (1080p)
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
@@ -3394,7 +3394,7 @@ https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 
 #EXTINF:-1 tvg-id="Tevex.cl@SD" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex (720p) [Not 24/7]
-https://v4.tustreaming.cl/tevexinter/index.m3u8
+https://v2.tustreaming.cl/tevex/index.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.us@Spain" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
