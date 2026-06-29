@@ -4,6 +4,16 @@
 #EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/500px-TelefuturoLogo2022.png" group-title="NACIONALES",Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=ea8f2d3215fd8a04c70dc6b05e7ec4a90015290c54e66eec3ca82387488cde79&exp=1781697859
 
+#EXTINF:-1 tvg-id="ABCTV.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/500px-TelefuturoLogo2022.png" group-title="NACIONALES",ABC TV
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(-SIuQCpuRbFspswj_2OEh11jJ593eRWlSubPVM1nvn4Oyb8Ya_eav184uYZaxyRKbwkPEmm5jP2m5tW0MoFURelYGOt3akh3QFlCw7bbJG9GduJccd7nhZVqXgr4UeY8)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b
+
+
+#EXTINF:-1 tvg-id="LT.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/500px-TelefuturoLogo2022.png" group-title="NACIONALES",La Tribu
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(93zYoWh18_krZPXuMsMmd47PvCAD5kvj6fBR94agewR5eXPXCBSi0xXk_0YECD3-ok__RqUBgVFreuvEjOGaBnNzlcXUarTNR6XpfsYBO1gyDdY_xMF1jx52GHyhim9I)/cloud/3/x9zkxlu/s/live-720.m3u8#cell=lcf2-eu-north-1b
+
+#EXTINF:-1 tvg-id="LT2.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/500px-TelefuturoLogo2022.png" group-title="NACIONALES",La Tribu 2
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(FXwwc2tNHfB3sgVlCjR38Q3L4GBzC2ChBrgGpzinsn4CFdn-pZBGSQjTk3zKJTTxt2xf38XWlBygMutHKmUzqJvynzlpX2hBOk4aG7t3YlCeDJnp4nP8PXgNiJfDg47b)/cloud/3/x9zl1hs/s/live-720.m3u8#cell=lcf2-eu-north-1b
+
 #EXTINF:-1 tvg-id="GEN.py@SD" tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="NACIONALES",GEN
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
