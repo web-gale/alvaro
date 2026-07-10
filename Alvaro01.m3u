@@ -752,7 +752,7 @@ https://directo.tuwebtv.es/canal1.m3u8
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.cr@SD" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="General",Canal 2 (576p) [Geo-blocked]
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="General",Canal 2 Alpavisión Neiva (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
@@ -785,7 +785,7 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.cr@SD" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="General",Canal 4 (720p) [Geo-blocked]
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="General",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
@@ -818,7 +818,7 @@ https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepe
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.cr@SD" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="General",Canal 6 (720p) [Geo-blocked]
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="General",Canal 6 Panadish (720p)
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
@@ -866,7 +866,7 @@ https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal11.cr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" group-title="General",Canal 11 (720p) [Geo-blocked]
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="General",Canal 11 (1080p) [Not 24/7]
 http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
