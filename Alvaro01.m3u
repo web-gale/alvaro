@@ -1619,7 +1619,7 @@ https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Extra86TV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg" group-title="General",Extra 86 TV (720p)
-https://samson.streamerr.co:8081/xtelevisionrd/tracks-v1a1/mono.m3u8
+https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
 
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="Kids",Extrema Kids TV [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
@@ -3914,7 +3914,7 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 https://live.obslivestream.com/vivatv/index.m3u8
 
 #EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entertainment",Vive Kanal D Drama (1080p)
-https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+http://8.243.126.131:8000/play/a0mn/index.m3u8
 
 #EXTINF:-1 tvg-id="VIVOTV.uy@SD" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png" group-title="Entertainment",VIVO TV (1080p)
 https://stream.vivotv.uy/hls/stream.m3u8
