@@ -1238,7 +1238,7 @@ https://cloudvideo.servers10.com:8081/8024/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="Clan.es@SD" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Kids",Clan TVE (1080p) [Geo-blocked]
-http://185.47.212.25:8080/Clan_HD/index.m3u8
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do@SD" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="General",Claro Televisión Dominicana (360p)
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
@@ -3029,7 +3029,7 @@ https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SolTV.pe@SD" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Undefined",Sol Televisión (720p)
-https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
+https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="General",Sol TV (720p)
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
