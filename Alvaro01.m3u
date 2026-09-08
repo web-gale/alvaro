@@ -2087,7 +2087,7 @@ https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
 
 #EXTINF:-1 tvg-id="LosSantosTV.cr@SD" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="General",Los Santos TV (720p)
-https://lstv.duckdns.org:449/hls/lstv.m3u8
+https://tiquiciatv.com/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
