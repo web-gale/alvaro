@@ -980,7 +980,7 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 #EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-logo="https://i.imgur.com/ew44KOZ.png" group-title="General",Canal C Del Zulia (720p)
-https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="General",Canal Calima TV (720p)
 https://movil.ejeserver.com/live/calimatv.m3u8
