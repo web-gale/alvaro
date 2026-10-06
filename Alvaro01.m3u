@@ -278,7 +278,7 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 https://www.desde-paraguay.com/mega.m3u8
 
 #EXTINF:-1 tvg-id="MiTV.py@SD" tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="NACIONALES",MiTV (720p)
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+http://190.128.214.97:64333/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="MonumentalTV.py@SD" tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="NACIONALES",Monumental TV
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
@@ -308,7 +308,7 @@ https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 
 #EXTINF:-1 tvg-id="ProductivaTV.py@SD" tvg-logo="https://i.imgur.com/KXHK7UP.png" group-title="NACIONALES",Productiva TV
-https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+http://190.128.214.97:64333/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioCiudad989FMTV.py@SD" tvg-logo="https://i.imgur.com/LaSLZwR.jpg" group-title="NACIONALES",Radio Ciudad 98.9 FM TV
 https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8
@@ -323,7 +323,7 @@ https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
 
 #EXTINF:-1 tvg-id="RCCTV.py@SD" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="NACIONALES",RCC TV (1080p) [Not 24/7]
-https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+https://xyktmobile00.s.gy/TICK_RCC
 
 #EXTINF:-1 tvg-id="RedDigital.py@SD" tvg-logo="https://i.imgur.com/3jj0MQP.jpg" group-title="NACIONALES",Red Digital (1080p) [Not 24/7]
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
@@ -362,7 +362,7 @@ https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="Religious",3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+http://138.59.177.78:9999/play/a0a3/index.m3u8
 
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" tvg-logo="https://jrlist70.pages.dev/list/wise.png" group-title="GENERAL",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
@@ -1601,7 +1601,7 @@ https://cdn1.etbon.eus/etb2/index.m3u8
 https://cdn1.etbon.eus/oc1/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish (720p)
-https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8
+https://iptv.bitred.cl/euronews/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTNEspana.es@SD" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religious",EWTN Espana
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
@@ -1961,7 +1961,7 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 
 #EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="General",La Red (720p) [Not 24/7]
-http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="LaReinaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg" group-title="General",La Reina TV [Geo-blocked]
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
@@ -2864,7 +2864,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 https://eu1.servers10.com:8081/8090/index.m3u8
 
 #EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Religious",Rhema TV (720p)
-https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+http://45.171.64.30:6060/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="RiberaTV.es@SD" tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="General",Ribera TV (576p)
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
@@ -3347,7 +3347,7 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeletrakTV.cl@SD" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Sports",Teletrak (720p)
-https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Travel",Teletur (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
@@ -3635,7 +3635,7 @@ https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 
 #EXTINF:-1 tvg-id="TVSenado.cl@SD" tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="Undefined",TV Senado (360p)
-http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe@SD" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="General",TV Sistemas Cuzco (360p) [Not 24/7]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
@@ -3668,7 +3668,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
 
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional America (576p) [Geo-blocked]
-https://cdn1tlinkgo.tlink.cl/tve/index.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional America HD (1080p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
@@ -3695,7 +3695,7 @@ https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVN3.cl@SD" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Classic",TVN3 (1080p) [Geo-blocked]
-http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-id="TVO.do@SD" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="General",TVO (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
@@ -3725,7 +3725,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVR.cl@SD" tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="Undefined",TVR (1080p) [Not 24/7]
-http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8
+https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVS.do@SD" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="Entertainment",TVS (540p) [Not 24/7]
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
@@ -3749,7 +3749,7 @@ http://45.181.87.106/TYCSPORTSHD/index.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
 
 #EXTINF:-1 tvg-id="UCVTV.cl@SD" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Culture",UCV TV (720p)
-http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UESTV.cl@SD" tvg-logo="https://i.imgur.com/tAyiNZV.png" group-title="Undefined",UESTV (720p)
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
