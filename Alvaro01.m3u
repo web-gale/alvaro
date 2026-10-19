@@ -3272,7 +3272,7 @@ https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemedellin.co@SD" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="General",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telemedellin (720p)
-https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
+http://181.78.82.130:8000/play/a0ru/index.m3u8
 
 #EXTINF:-1 tvg-id="TelemetroTV.do@SD" tvg-logo="https://imgur.com/Ck2NL0t.png" group-title="General",Telemetro TV [Not 24/7]
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
