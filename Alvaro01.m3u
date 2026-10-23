@@ -2303,7 +2303,7 @@ https://tv.picta.cu/multivision/multivision_1.m3u8
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 
 #EXTINF:-1 tvg-id="MultivisionFederal.ar@SD" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="News",Multivision Federal
-https://panel.host-live.com:19360/8250/8250.m3u8
+https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
 
 #EXTINF:-1 tvg-id="MultivisionSports.gt@SD" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Sports",Multivisión Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
