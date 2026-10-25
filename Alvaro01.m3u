@@ -1535,7 +1535,7 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece (1080p)
-http://15.204.246.24:8080/eltreceHD/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ElRoiTV.gt@SD" tvg-logo="https://i.imgur.com/h8S0eA4.png" group-title="Religious",El-Roi TV (720p)
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
