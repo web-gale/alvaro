@@ -743,7 +743,7 @@ https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanaTVDigital.do@SD" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="General",Cana TV Digital (720p) [Not 24/7]
-https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es@SD" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="General",Canal 1 Mar Menor-Torre Pacheco (1080p)
 https://directo.tuwebtv.es/canal1.m3u8
@@ -1640,7 +1640,7 @@ https://edge.enhdtv.com/faptv/index.m3u8
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Farovision.do@SD" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="General",Farovisión (720p)
-https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="Entertainment",Filmex (Xumo) (1080p) [Geo-blocked]
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
@@ -1715,7 +1715,7 @@ https://s.emisoras.tv:8081/girasoltv/index.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GlobalTV.do@SD" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="General",Global TV (720p)
-https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
+https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoienaEus.es@SD" tvg-logo="https://i.imgur.com/eaLIJzK.png" group-title="Undefined",Goiena Eus (720p)
 https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
@@ -3083,7 +3083,7 @@ https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1 tvg-id="SuperDigitalTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg" group-title="General",Super Digital TV (1080p) [Not 24/7]
-https://mp.panelchs.com/hls/8032/8032.m3u8
+https://cdn.streamrd.cloud/live/ch_kb5qe1zr.m3u8
 
 #EXTINF:-1 tvg-id="SuperQPanama.pa@SD" tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="Music",Súper Q Panamá (1080p)
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
@@ -3509,7 +3509,7 @@ https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TurismoRDTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" group-title="Travel",Turismo RDTV (720p)
-https://streamunoapp.com:3086/live/telemileniolive.m3u8
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TuristikTV.mx@SD" tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Travel",Turistik TV (720p)
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
