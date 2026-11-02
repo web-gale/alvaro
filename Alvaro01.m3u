@@ -1214,7 +1214,7 @@ https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Entertainment",Cine Sony (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+http://186.148.196.82:8001/play/a0a4
 
 #EXTINF:-1 tvg-id="CineTerror.us@SD" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Entertainment",Cine terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
@@ -1997,7 +1997,7 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="LarivisionTV.do@HD" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" group-title="General",Larivision TV [Not 24/7]
-https://cloud5.larivision.net/hls/live.m3u8
+https://live.larivision.net/livelan/live.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
