@@ -2000,7 +2000,7 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 https://live.larivision.net/livelan/live.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas (1080p)
-http://45.189.151.7:8000/play/a07s
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="LasTortugasNinja.us@Spain" tvg-logo="https://i.imgur.com/urJdNc9.png" group-title="Animation",Las Tortugas Ninja (720p)
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
